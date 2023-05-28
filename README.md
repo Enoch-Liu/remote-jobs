@@ -8,9 +8,9 @@ Contributions are very welcome! Please [review our contributing guidelines](http
 
 ## Companies
 
-Name | Website | Region
------------- | ------- | -------
-[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide
+Name | Website | Region | Business | Careers
+------------ | ------- | ------- | -------- | ------------
+[10up](/company-profiles/10up.md) | https://10up.com/ | Worldwide | Web Developer | Front End, JS, System Engineer
 [15Five](/company-profiles/15five.md) | https://www.15five.com | Europe, Americas
 [17hats](/company-profiles/17hats.md) | https://www.17hats.com/ | Worldwide
 [18F](/company-profiles/18f.md) | https://18f.gsa.gov/ | USA
