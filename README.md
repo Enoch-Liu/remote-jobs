@@ -219,15 +219,15 @@ Name | Website | Region | Business | Careers
 [Edify](/company-profiles/edify.md) | https://edify.cr/ | Worldwide
 [eFishery](/company-profiles/efishery.md) | https://efishery.com/ | Indonesia
 [Elastic](/company-profiles/elastic.md) | https://www.elastic.co/ | Worldwide
-[Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide
+[Emsisoft](/company-profiles/emsisoft.md) | https://www.emsisoft.com/ | Worldwide | malware protection software | C++
 [EngineYard (Support Team)](/company-profiles/engineyard.md) | https://www.engineyard.com/ | Worldwide
 [Enjoei](/company-profiles/enjoei.md) | https://www.enjoei.com.br/ | Brazil
 [Enok](/company-profiles/enok.md) | https://www.enok.co/ | USA
 [Entrision](/company-profiles/entrision.md) | https://entrision.com/ | USA
 [Envato](/company-profiles/envato.md) | https://envato.com/ | Worldwide
 [Envoy](/company-profiles/envoy.md) | https://envoy.com/ | USA, Canada, Colombia
-[Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide
-[Epic Games](/company-profiles/epic-games.md) | https://www.epicgames.com/site/en-US/careers | Worldwide
+[Epam](/company-profiles/epam.md) | https://epam.com/ | Worldwide | Job finding net | Remote C++ Jobs from searching the net 
+[Epic Games](/company-profiles/epic-games.md) | https://www.epicgames.com/site/en-US/careers | Worldwide | Game Engine | C++/Graphics
 [Epilocal](/company-profiles/epilocal.md) | https://www.epilocal.com/ | Worldwide
 [Episource](/company-profiles/episource.md) | https://episource.com | USA
 [Equal Experts Portugal](/company-profiles/equal-experts-portugal.md) | https://www.equalexperts.com/contact-us/lisbon/ | Europe
