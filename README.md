@@ -239,7 +239,7 @@ Name | Website | Region | Business | Careers
 [Evil Martians](/company-profiles/evil-martians.md) | https://evilmartians.com/ | Worldwide
 [Evrone](/company-profiles/evrone.md) | https://evrone.com/ | Worldwide
 [ExportData](/company-profiles/exportdata.md) | https://www.exportdata.io/ | Worldwide
-[Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide
+[Eyeo (Adblock Plus)](/company-profiles/eyeo.md) | https://eyeo.com/ | Worldwide | adblock plus | C++/not now
 [FactorialHR](/company-profiles/factorialhr.md) | https://www.factorialhr.com | Worldwide
 [Fairwinds](/company-profiles/fairwinds.md) | https://www.fairwinds.com | North America
 [Faithlife](/company-profiles/faithlife.md) | https://www.faithlife.com/ | USA, Mexico
