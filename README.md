@@ -334,7 +334,7 @@ Name | Website | Region | Business | Careers
 [Hypergiant](/company-profiles/hypergiant.md) | https://www.hypergiant.com/contact/ | Worldwide
 [Hyperion](/company-profiles/hyperion.md) | https://hyperiondev.com/jobs | South Africa
 [Hypothesis](/company-profiles/hypothesis.md) | https://hypothes.is | Worldwide
-[IBM](/company-profiles/ibm.md) | https://www.ibm.com | Worldwide
+[IBM](/company-profiles/ibm.md) | https://www.ibm.com | Worldwide | outsource | C++
 [iClinic](/company-profiles/iclinic.md) | https://iclinic.com.br/ | Brazil
 [IDoneThis](/company-profiles/idonethis.md) | https://idonethis.com/ | Worldwide
 [iFit](/company-profiles/ifit.md) | https://www.ifit.com/ | USA
